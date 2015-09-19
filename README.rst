@@ -1,7 +1,7 @@
 Fanotify - Monitoring Filesystem Events
 =======================================
 
-A simple C wrapper around the fanotify_ system calls for linux.
+A simple C example of the fanotify_ system calls for linux.
 
 .. _fanotify: http://man7.org/linux/man-pages/man7/fanotify.7.html
 
