@@ -19,4 +19,4 @@ To monitor all the close events on the root file-system run:
 
 .. code:: bash
 
-   sudo fanotify CLOSE MOUNT /
+   sudo ./fanotify CLOSE MOUNT /
